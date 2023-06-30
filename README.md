@@ -4,4 +4,4 @@ When comparing the template's recipe and texture, we see that the item is mainly
 
 ## Permissions:
 * You can use this mod in your modpack.
-* You are **not allowed** to **re-publish this data pack/mod to other sites without providing a [Modrinth](https://modrinth.com/mod/fundys-cursed-food) download link** and **my permission** *(PM to me via Discord: @pisekpiskovec)*
+* You are **not allowed** to **re-publish this data pack/mod to other sites without providing a [Modrinth](https://modrinth.com/datapack/piseks-cheap-templates) download link** and **my permission** *(PM to me via Discord: @pisekpiskovec)*
